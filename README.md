@@ -1,0 +1,2 @@
+# WebAssemblyBlazorMinimalAppTemplate
+最小限のBlazor WebAssembly アプリを作成するためのテンプレート
